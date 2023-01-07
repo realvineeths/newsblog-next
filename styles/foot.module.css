@@ -1,0 +1,40 @@
+.footer{
+    display: flex;
+    background-color: rgb(49, 49, 49);
+    height: 400px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    width: 70%;
+    justify-content: space-evenly;
+}
+.hoverlogo:hover{
+
+    opacity: 0.7;
+
+}
+.terms>.li{
+    display: flex;  
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.fa-facebook,.fa-twitter,.fa-instagram,.fa-linkedin,.fa-youtube-play{
+    padding: 20px;
+    background-color: rgb(122, 122, 122);
+    border-radius: 50px;
+}
+
+
+.terms>.li>a{
+    text-decoration: none;
+    color: black;
+}
+.logo>a{
+    color: black;
+}

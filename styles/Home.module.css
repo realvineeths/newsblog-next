@@ -1,3 +1,10 @@
+
+.gallery{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;    
+}
+
 .main {
   display: flex;
   flex-direction: column;
