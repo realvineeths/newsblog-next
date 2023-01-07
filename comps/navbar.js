@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 import nstyles from  '../styles/nav.module.scss'
 
-function Navbar() {
+function Navbar(props) {
   return (
     <>
         <nav className={nstyles.navbar}>
@@ -16,11 +16,8 @@ function Navbar() {
 
             <div className={nstyles.navbarmenu} id="open-navbar1">
             <ul className={nstyles.navbarnav}>
-                <li ><a>Home</a></li>
-                {/* <li ><a ><i class="fa-solid fa-heart"></i></a></li> */}
-                {/* <li><a >Contact Us <i className="fa fa-user"></i></a></li> */}
-                <li><a href="#">Contact</a></li>
-                {/* <li><a href="/" onClick={logoutHandler}>Logout</a></li> */}
+                <li ><a href='/'>Home</a></li>
+                <li><a href="/">Contact</a></li>
                 <li><a>Logout</a></li>
             </ul>
             </div>

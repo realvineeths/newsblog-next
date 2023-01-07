@@ -32,9 +32,9 @@ function Paypal() {
 
               <p>Users would simply need to log in to their accounts and enter the crypto section of the application to start transferring coins. Users are generally required to complete a one-time ID verification before the procedure.</p>
 
-              <p>Crypto transfers to recipients outside of PayPal would incur a network fee based on their respective blockchains, but transfers between PayPal users will not incur such fees. To protect users' privacy, the firm generates a new recipient address for each transaction into one's PayPal account. PayPal will also not charge fees for incoming transfers,</p>
+              <p>Crypto transfers to recipients outside of PayPal would incur a network fee based on their respective blockchains, but transfers between PayPal users will not incur such fees. To protect users&apos; privacy, the firm generates a new recipient address for each transaction into one&apos;s PayPal account. PayPal will also not charge fees for incoming transfers,</p>
 
-              <p>The company is also working to integrate other forms of cryptocurrency services, such as central bank digital currencies, to boost its digital footprint. It is also exploring the possibility of launching its own stablecoin, dubbed "PayPal Coin." The discovery came after a developer found evidence of such a stablecoin within the source code of the company's iPhone app. </p>              
+              <p>The company is also working to integrate other forms of cryptocurrency services, such as central bank digital currencies, to boost its digital footprint. It is also exploring the possibility of launching its own stablecoin, dubbed &quot;PayPal Coin.&quot; The discovery came after a developer found evidence of such a stablecoin within the source code of the company&apos;s iPhone app. </p>              
           </section>
       </div>
 

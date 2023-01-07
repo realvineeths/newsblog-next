@@ -11,7 +11,7 @@ function Microstrategy() {
           <section className={bstyles.header}>
             <div>
               <span className={bstyles.header__cat}>Technology</span>
-              <h1 className={bstyles.header__title}>Microstrategy Buys More Bitcoin — Company's Crypto Holdings Grow to 132,500 BTC</h1>
+              <h1 className={bstyles.header__title}>Microstrategy Buys More Bitcoin — Company&apos;s Crypto Holdings Grow to 132,500 BTC</h1>
             </div>
             <div className={bstyles.article__image}>
               <div className={bstyles.article__imagewrapper}>
@@ -21,11 +21,11 @@ function Microstrategy() {
           </section>
 
           <section className={bstyles.richtext}>
-              <p>Microstrategy is now holding approximately 132,500 bitcoin following its most recent purchases. This year, the world’s largest cryptocurrency has emerged as “the institutional-grade digital asset,” said Microstrategy founder Michael Saylor.</p>
+              <p>Microstrategy is now holding approximately 132,500 bitcoin following its most recent purchases. This year, the world&apos;s largest cryptocurrency has emerged as “the institutional-grade digital asset,” said Microstrategy founder Michael Saylor.</p>
 
               <h2>Microstrategy Acquires More Bitcoin</h2>
 
-              <p>Nasdaq-listed Microstrategy Inc. announced Wednesday that it has purchased more bitcoin for its corporate treasury. Michael Saylor, the company’s founder and executive chairman, tweeted Wednesday:</p>
+              <p>Nasdaq-listed Microstrategy Inc. announced Wednesday that it has purchased more bitcoin for its corporate treasury. Michael Saylor, the company&apos;s founder and executive chairman, tweeted Wednesday:</p>
 
               <p>Microstrategy has increased its bitcoin holdings by ~2,500 BTC. As of 12/27/22 Microstrategy holds ~132,500 bitcoin acquired for ~$4.03 billion at an average price of ~$30,397 per bitcoin.</p>
               
@@ -34,9 +34,9 @@ function Microstrategy() {
               <p>under the federal income tax laws currently in effect, which may generate a tax benefit,” the SEC filing describes.</p>
               <p><i>Saylor said in an interview last week:</i></p>
 
-              <p>The most positive thing of the year is the emergence of bitcoin as the institutional grade digital asset and the clarity that … there is one crypto asset that’s a digital commodity … Bitcoin is that commodity.</p>
+              <p>The most positive thing of the year is the emergence of bitcoin as the institutional grade digital asset and the clarity that … there is one crypto asset that&apos;s a digital commodity … Bitcoin is that commodity.</p>
               <p>The executive noted that both the chairman of the SEC and the chair of the Commodity Futures Trading Commission (CFTC) have confirmed that bitcoin is a commodity.
-              Saylor previously explained that Microstrategy is investing in BTC “for the long term.” He added: “Our strategy is to buy bitcoin and hold the bitcoin, so there’s no price target … I expect bitcoin is going to go into the millions. So, we’re very patient. We think it’s the future of money.”
+              Saylor previously explained that Microstrategy is investing in BTC “for the long term.” He added: “Our strategy is to buy bitcoin and hold the bitcoin, so there&apos;s no price target … I expect bitcoin is going to go into the millions. So, we&apos;re very patient. We think it&apos;s the future of money.”
               </p>
          </section>
       </div>
