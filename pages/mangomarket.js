@@ -15,7 +15,7 @@ function Mangomarket() {
             </div>
             <div className={bstyles.article__image}>
               <div className={bstyles.article__imagewrapper}>
-                  <Image src="http://localhost:3000/mangomarket.svg" width={500} height={600} alt=""/>
+                  <Image src="/mangomarket.svg" width={500} height={600} alt=""/>
               </div>
             </div>
           </section>

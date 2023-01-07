@@ -2,6 +2,7 @@ import React from 'react'
 import bstyles from '..//styles/blog.module.css'
 import Footer from '../comps/footer'
 import Image from 'next/image'
+// import {img} from '/microstrategy.svg'
 
 function Microstrategy() {
   return (
@@ -15,7 +16,7 @@ function Microstrategy() {
             </div>
             <div className={bstyles.article__image}>
               <div className={bstyles.article__imagewrapper}>
-                  <Image src="http://localhost:3000/microstrategy.svg" width={500} height={600} alt=""/>
+                  <Image src='/microstrategy.svg' width={500} height={600} alt=""/>
               </div>
             </div>
           </section>

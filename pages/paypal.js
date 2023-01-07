@@ -16,7 +16,7 @@ function Paypal() {
 
             <div className={bstyles.article__image}>
               <div className={bstyles.article__imagewrapper}>
-                  <Image src="http://localhost:3000/paypal.svg" width={500} height={600} alt=""/>
+                  <Image src="/paypal.svg" width={500} height={600} alt=""/>
               </div>
             </div>
           </section>
