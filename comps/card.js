@@ -1,13 +1,10 @@
 import React from 'react'
 import cstyles from '../styles/card.module.css'
 import Image from 'next/image'
-// import mypic from ""
 
 function Card(props) {
-    console.log('in..',props.title);
 
   return (
-    // https://picsum.photos/id/403/300/200
     <>
         <div className={`${cstyles.card} ${cstyles.hover}`} id="card">
                 <div className={cstyles.cardheader}>

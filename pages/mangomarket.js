@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 function Mangomarket() {
   return (
-    <div className={bstyles.bodyy}>
+    <div >
       <article className={bstyles.article}>
         <div className={bstyles.article__body}>
           <section className={bstyles.header}>
